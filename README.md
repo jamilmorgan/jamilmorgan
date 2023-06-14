@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Jamil Morgan, a software developer.
 <!--
 **jamilmorgan/jamilmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
